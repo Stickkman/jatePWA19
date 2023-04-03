@@ -40,7 +40,7 @@ https://github.com/Stickkman/jatePWA19
 For local connection:
 1. Use 'npm install' from the ROOT of your preferred CLI to install dependencies both client and server dependencies will be installed if you run from the ROOT.
 
-NOTE: no for deployed version simply goto https://stickkman.github.io/jatePWA19/client/dist/ and click install in top left
+NOTE: n/a for deployed version simply goto https://stickkman.github.io/jatePWA19/client/dist/ and click install in top left
 
 ## Usage
 Simply goto the live app OR run locally on port 3000 after installation instructions.
