@@ -23,13 +23,17 @@ ScreenShots Below
 
 ![Application Demo Screenshot1](https://github.com/Stickkman/jatePWA19/blob/main/assets/screenshot01.jpg?raw=true)
 
-Video Explanation Below
+Video Explanation Link 
 
-![Video Explanation](https://drive.google.com/file/d/1_3S5BvH7Oy5oMhzz8UKvCe0It2YtlxS8/view)
+https://drive.google.com/file/d/1_3S5BvH7Oy5oMhzz8UKvCe0It2YtlxS8/view
 
 Deployed App Link
 
-![Deployed Live Link](https://stickkman.github.io/jatePWA19/client/dist/)
+https://stickkman.github.io/jatePWA19/client/dist/
+
+GitHub Repo
+
+https://github.com/Stickkman/jatePWA19
 
 
 ## Installation
